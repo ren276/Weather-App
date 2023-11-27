@@ -1,6 +1,8 @@
 # Flutter Weather App
 
-![App Demo](demo.gif)
+DEMO
+![Screenshot_20231127_230055](https://github.com/ren276/Weather-App/assets/89840800/e0f02232-8d26-4a98-9d26-051322c0ab9a)
+
 
 ## Overview
 
