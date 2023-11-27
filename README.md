@@ -49,13 +49,11 @@ Before running the app, you need to obtain an API key from OpenWeatherMap. Follo
    - Generate an API key in your account dashboard.
 
 2. **Add API Key to the App:**
-   - Open the `lib/utils/api_key.dart` file.
-   - Replace the `YOUR_API_KEY_HERE` placeholder with your actual API key.
+   - Open the `lib/pages/weather_page.dart` file.
+   - Replace the `Put Your apiKey` placeholder with your actual API key.
 
 ```dart
-class ApiKey {
-  static const String openWeatherMap = 'YOUR_API_KEY_HERE';
-}
+final _weatherService = WeatherService('Put Your apiKey');
 ```
 
 ## Architecture
