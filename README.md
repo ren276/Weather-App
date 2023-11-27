@@ -1,6 +1,3 @@
-Certainly! Here's the README in markdown format:
-
-```markdown
 # Flutter Weather App
 
 ![App Demo](demo.gif)
@@ -57,7 +54,7 @@ Before running the app, you need to obtain an API key from OpenWeatherMap. Follo
 
 ```dart
 class ApiKey {
-  static const String OpenWeatherMap = 'YOUR_API_KEY_HERE';
+  static const String openWeatherMap = 'YOUR_API_KEY_HERE';
 }
 ```
 
@@ -80,8 +77,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README according to your project's specifics. Good luck with your Flutter Weather App!
-```
-
-
